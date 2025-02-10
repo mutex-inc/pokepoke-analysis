@@ -1,0 +1,28 @@
+{
+    "deck_names": [
+        "Mewtwo ex Gardevoir",
+        "Gyarados ex Greninja",
+        "Arcanine ex Moltres ex",
+        "Charizard ex Arcanine ex",
+        "Pikachu ex Zebstrika",
+        "Exeggutor ex Celebi ex",
+        "Greninja Farfetch'd",
+        "Aerodactyl ex Farfetch'd",
+        "Aerodactyl ex Mew ex",
+        "Greninja Mew ex",
+        "Articuno ex Greninja"
+    ],
+    "probabilities": [
+        0.16845139596769762,
+        0.15381624900709862,
+        0.13006229059799232,
+        0.1164039505154779,
+        0.11058236816652911,
+        0.08618446827504847,
+        0.08432358207737037,
+        0.06542173268119726,
+        0.04717772864326319,
+        0.03332859851714051,
+        0.0042476355511844865
+    ]
+}
