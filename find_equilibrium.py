@@ -38,7 +38,7 @@ def find_equilibrium(payoff_matrix: np.ndarray) -> np.ndarray:
     return result.x
 
 
-def save_equilibrium(
+def save(
     path: Path,
     probabilities: np.ndarray,
     deck_names: list[str],
@@ -71,7 +71,7 @@ def main() -> None:
 
     equilibrium = find_equilibrium(payoff_matrix)
 
-    save_equilibrium(output_path, equilibrium, deck_names)
+    save(output_path, equilibrium, deck_names)
 
 
 if __name__ == "__main__":
